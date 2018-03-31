@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file alias="MainIcon">Icons/1369096096_45340.ico</file>
+        <file alias="Plus3">Icons/1369097392_1.png</file>
+        <file alias="Minus3">Icons/1369097398_2.png</file>
+        <file alias="Refresh">Icons/1369100461_iSync.png</file>
+        <file alias="Case">Icons/1370300730_font_case.png</file>
+        <file alias="Tree">Icons/1371007125_sitemap.png</file>
+        <file alias="Debug">Icons/1371007182_configuration 1.png</file>
+        <file alias="Exit">Icons/1371007926_close.png</file>
+        <file alias="About">Icons/1371008214_Information.png</file>
+        <file alias="Green">Icons/1371093969_Circle_Green.png</file>
+        <file alias="Blue">Icons/1371093971_Circle_Blue.png</file>
+        <file alias="Grey">Icons/1371093977_Circle_Grey.png</file>
+        <file alias="Orange">Icons/1371093980_Circle_Orange.png</file>
+        <file alias="Yellow">Icons/1371093982_Circle_Yellow.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,132 @@
+Ftp-protocol (command prompt)|ftp
+Iexpress Wizard|iexpress
+Internet Explorer|iexplore
+Paint|mspaint
+Windows Firewall|firewall.cpl
+Wordpad|write
+ODBC Data Source Administrator|odbcad32
+Administrative Tools|control admintools
+Backup and Restore|sdclt
+Notepad|notepad
+Turn Windows features on or off|OptionalFeatures.exe
+System Restore|rstrui
+Log Out Of Windows|logoff
+Date and Time|timedate.cpl
+Disk Defragmenter|dfrgui
+Authorization Manager|azman.msc
+Windows Task Manager|taskmgr
+Driver Verifier Manager|verifier
+Device Manager|devmgmt.msc
+Device Manager|hdwwiz.cpl
+Additional Clocks|control timedate.cpl,,1
+Shuts Down Windows|shutdown /s
+Sticky Note|StikyNot
+Securing the Windows Account Database|syskey
+Sound|mmsys.cpl
+Sounds (sound theme)|control mmsys.cpl,,2
+Sound Recorder|soundrecorder
+Game Controllers|joy.cpl
+Initialize the TMP security hardware|TpmInit
+Display Color Calibration|dccw
+Calculator|calc
+Command Prompt|cmd
+Windows Features|OptionalFeatures
+Microsoft Management Console|mmc
+System Configuration|msconfig
+Local Security Policy|secpol.msc
+Local Users and Groups|lusrmgr.msc
+Windows Picture Acquisition Wizard|wiaacmgr
+Create A Shared Folder Wizard|shrpubw
+Driver Package Installer|dpinst
+Add Hardware Wizard|hdwwiz
+Sound Volume|sndvol
+Resource Monitor|resmon
+Set Program Access and Computer Defaults|control appwiz.cpl,,3
+User Account Control Settings|UserAccountControlSettings
+Snipping Tool|snippingtool
+Shared Folders|fsmgmt.msc
+Disk Cleanup Utility|cleanmgr
+Control Panel|control
+Fonts Folder|fonts
+"Downloads" Folder|Downloads
+Folder Options|control folders
+Restart Windows|shutdown /r
+Printer Migration|PrintBrmUi
+Pen and Touch|TabletPC.cpl
+Personalization|control desktop
+Task Sheduler|control schedtasks
+Remote Desktop Connection|mstsc
+Get Programs|control appwiz.cpl,,1
+Check Disk Utility|chkdsk
+System File Checker (Scan and Repair)|sfc /scannow
+File Signature Verification|sigverif
+Windows Explorer|explorer
+Windows Explorer: C:\|\
+Windows Explorer: С:\Users\Your_name|.
+Windows Explorer: С:\Users\|..
+Disk Partition Manager|diskpart
+Programms and Features|appwiz.cpl
+Event Viewer|eventvwr.msc
+Screen Resolution|desk.cpl
+Private Character Editor|eudcedit
+Local Group Policy Editor|gpedit.msc
+Registry Editor|regedit
+Registry Editor|regedt32
+Fax Cover Sheet Editor|fxscover
+Resultant Set of Policy|rsop.msc
+System Information|msinfo32
+System Properties|sysdm.cpl
+System Properties: Advanced|SystemPropertiesAdvanced
+System Properties: System Protection|SystemPropertiesProtection
+System Properties: Hardware|SystemPropertiesHardware
+System Properties: Remote|SystemPropertiesRemote
+iSCSI Initiator Properties|iscsicpl
+Internet Properties|inetcpl.cpl
+Keyboard Properties|control keyboard
+Mouse Properties|control mouse
+Mouse Properties|main.cpl
+Mouse Properties: Pointer Options|control main.cpl,,2
+Mouse Properties: Pointers|control main.cpl,,1
+Sertificates|certmgr.msc
+Network Connections|control netconnections
+Network Connections|ncpa.cpl
+Performance Monitor|perfmon
+Indexing Service|ciadv.msc
+Services|services.msc
+Component Services|dcomcnfg
+Component Services|comexp.msc
+Program Compatibility|msdt.exe -id PCWDiagnostic
+Create a system repair disk|recdisc
+People Near Me|collab.cpl
+Stored User Names and Passwords|credwiz
+Direct X Troubleshooter|dxdiag
+Microsoft Support Diagnostic Tool|msdt
+Ditilizer Calibration Tool|tabcal
+ClearType Text Tuner|cttune
+XPS Viewer|xpsrchvw
+Problem Steps Recorder|psr
+Character Map|charmap
+Phone and Modem|telephon.cpl
+Windows Remote Assistance|msra
+Disk Management|diskmgmt.msc
+Computer Management|compmgmt.msc
+Print Management|printmanagement.msc
+Color Management|colorcpl
+Install or uninstall display languages|lpksetup
+Devices and Printers|control printers
+User Accounts|Netplwiz
+Window Color and Appearance|control color
+Windows Mobility Center|mblctr
+Action Center|wscui.cpl
+Sync Center|mobsync
+Ease of Access Center|utilman
+Encryption File System|rekeywiz
+Fonts|control fonts
+Display (size of text)|dpiscaling
+On-Screen Keyboard|osk
+Magnifier|magnify
+Microsoft Narrator|narrator
+Power Options|powercfg.cpl
+Power Options: Advanced Settings|control powercfg.cpl,,1
+Windows Management Infrastructure|wmimgmt.msc
+Region and Language|intl.cpl

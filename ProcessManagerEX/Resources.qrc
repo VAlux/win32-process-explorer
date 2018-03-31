@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file alias="Plus2">Icons/1369097049_Plus.png</file>
+        <file alias="Minus2">Icons/1369097052_Minus.png</file>
+        <file alias="Plus3">Icons/1369097392_1.png</file>
+        <file alias="Minus3">Icons/1369097398_2.png</file>
+        <file alias="Preferences">Icons/1369100453_System Preferences.png</file>
+        <file alias="SysMonitor">Icons/1369100457_Activity Monitor.png</file>
+        <file alias="Refresh">Icons/1369100461_iSync.png</file>
+    </qresource>
+</RCC>
